@@ -36,7 +36,7 @@ COLORS: t.Mapping[str, t.Tuple[int, str]] = {
     ),
     "Green": (
         0x00FF00,
-        "Plants green color help them use photosynthesis!",
+        "Plant's green color help them use photosynthesis!",
     ),
     "Blue": (
         0x0000FF,
@@ -49,7 +49,7 @@ COLORS: t.Mapping[str, t.Tuple[int, str]] = {
     ),
     "Yellow": (
         0xFFFF00,
-        "Taxi's and school buses are yellow because it's so easy to see!",
+        "Taxis and school buses are yellow because it's so easy to see!",
     ),
     "Black": (0x000000, "Black is a color which results from the absence of visible light!"),
     "White": (0xFFFFFF, "White objects fully reflect and scatter all visible light!"),
